@@ -49,6 +49,7 @@ https://github.com/FigBug/SID Commodore 64 SID emulation
 https://github.com/FigBug/PAPU Gameboy PAPU emulation
 https://github.com/FigBug/Voc Vocal synth emulates glottis and shape of vocal tract
 https://github.com/FigBug/RP2A03 Nintenodo RP2A03
+https://github.com/Speechrezz/BasicOscillator Free to use, anti-aliased oscillator
 
 ## Effects 
 
